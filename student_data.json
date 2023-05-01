@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "angelo lee",
+      "age": 26,
+      "email": "angelo@mail.com",
+      "isEnrolled": false
+    },
+     {
+      "name": "juan cruz",
+      "age": 24,
+      "email": "cruz@mail.com",
+      "isEnrolled": true
+    },
+     {
+      "name": "based jovito",
+      "age": 25,
+      "email": "based@mail.com",
+      "isEnrolled": false
+    },
+    {
+      "name": "based god",
+      "age": 30,
+      "email": "base@mail.com",
+      "isEnrolled": true
+    }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+  "buiding":{
+  "ict": [
+    "Dr. Jocelyn Barbosa",
+    "Engr. Jay Noel Rojo",
+    "Ms. Love Jhoye Raboy",
+    "Ms. Jocelyn Garrido"
+    
+  ],
+  "admin": [
+    "Dr. Ambrosio B. Cultura II",
+    "Dr. Junar Landicho"
+
+    ],
+  "lrc": [
+    "Dr. Charito G. Ong",
+    "emp_2"
+    ],
+  "food_trade": [
+    "emp_1",
+    "emp_2"
+    ],
+  "sciene_complex": [
+    "Dr. COnsorcio S. Namoco Jr.",
+    "emp_2"
+    ],
+  "drawing": [
+    "emp_1",
+    "emp_2"
+    ],
+  "furniture": [
+    "emp_1",
+    "emp_2"
+    ],
+  "civil": [
+    "emp_1",
+    "emp_2"
+    ],
+  "arts": [
+    "emp_1",
+    "emp_2"
+    ],
+  "guidance": [
+    "emp_1",
+    "emp_2"
+    ],
+  "gym_e": [
+    "Dr. Tito M. Mariquit",
+    "emp_2"
+    ],
+  "gym_f": [
+    "emp_1",
+    "emp_2"
+    ]
+  }
+}
